@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "esnext"],
+      "strict": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "esModuleInterop": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "downlevelIteration": true,
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": "./",
+    },
+    "include": ["src/**/*"]
+  }
+  
