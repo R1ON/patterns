@@ -6,6 +6,9 @@
 ### Структурные
 
 <div>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Bridge.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Bridge-d9901a" alt="Bridge"/>
+    </a>
     <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Facade.ts" target="_blank">
      <img src="https://img.shields.io/badge/Facade-d9901a" alt="Facade"/>
     </a>

@@ -10,10 +10,14 @@
 // Решение
 // [Запрос] -> [Авторизация] -> [Валидация] -> [...]
 
+// --- Тип, описывающий как должны выглядеть миддлвары
+
 type Middleware = {
     next(middleware: Middleware): Middleware;
     handler(request: any): any;
 };
+
+// --- Базовый класс, в котором описывается переход от одной миддлвары к другой
 
 abstract class AbstractMiddleware implements Middleware {
     private nextMiddleware: Middleware | null = null;
@@ -30,6 +34,7 @@ abstract class AbstractMiddleware implements Middleware {
     }
 };
 
+// --- Миддлвары для аутентификации и валидации
 
 class AuthMiddleware extends AbstractMiddleware {
     override handler(request: any) {
@@ -55,6 +60,9 @@ class ValidateMiddleware extends AbstractMiddleware {
     }
 };
 
+// --- Финальная миддлвара, которая должна отработать в самом конце
+// Если авторизация и валидация пройдены
+
 class Controller extends AbstractMiddleware {
     override handler(request: any) {
         console.log('Controller');
@@ -63,7 +71,7 @@ class Controller extends AbstractMiddleware {
     }
 };
 
-// ---
+// --- Использование
 
 const controller = new Controller();
 const validate = new ValidateMiddleware();

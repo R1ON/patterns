@@ -17,6 +17,8 @@
 //    Facade.saveToDB();
 // }
 
+// --- Основные классы: логгер, база данных, стор
+
 class DataBase {
     saveSomeData(data: string) {
         console.log('Сохраняю в базу данных', data);
@@ -36,6 +38,8 @@ class State {
         this.data = data;
     }
 }
+
+// --- Объединяем их использование, скрывая фасадом
 
 class Facade {
     private db: DataBase;
@@ -58,6 +62,8 @@ class Facade {
         this.state.setState(data);
     }
 }
+
+// --- Использование
 
 const facadeInstance = new Facade();
 
