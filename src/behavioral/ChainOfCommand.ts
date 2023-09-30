@@ -1,3 +1,8 @@
+// Идея:
+// Не описывать всю бизнес логику в одном месте, а сделать что-то типа middleware
+// Где в любом порядке можем подсовывать нужны кусок логики.
+// Этот паттерн используется в express, только в другом виде.
+
 // Проблема:
 // [Запрос] -> [Авторизация, валидация, ...]
 // Получаем большую функцию с кучей бизнес логики
@@ -9,7 +14,6 @@ type Middleware = {
     next(middleware: Middleware): Middleware;
     handler(request: any): any;
 };
-
 
 abstract class AbstractMiddleware implements Middleware {
     private nextMiddleware: Middleware | null = null;
