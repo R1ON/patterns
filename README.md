@@ -1,7 +1,12 @@
 ## Паттерны
 
 ### Порождающие
-... 7aad0c
+
+<div>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Singleton.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Facade-7aad0c" alt="Singleton"/>
+    </a>
+</div>
 
 ### Структурные
 
