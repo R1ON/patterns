@@ -3,6 +3,9 @@
 ### Порождающие
 
 <div>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Factory.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Factory%20Method-7aad0c" alt="Factory Method"/>
+    </a>
     <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Singleton.ts" target="_blank">
      <img src="https://img.shields.io/badge/Facade-7aad0c" alt="Singleton"/>
     </a>
