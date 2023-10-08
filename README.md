@@ -12,6 +12,9 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Prototype.ts" target="_blank">
      <img src="https://img.shields.io/badge/Prototype-7aad0c" alt="Prototype"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Builder.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Builder-7aad0c" alt="Builder"/>
+    </a>
 </div>
 
 ### Структурные
