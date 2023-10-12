@@ -29,6 +29,9 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Adapter.ts" target="_blank">
      <img src="https://img.shields.io/badge/Adapter-d9901a" alt="Adapter"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Proxy.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Proxy-d9901a" alt="Proxy"/>
+    </a>
 </div>
 
 ### Поведенческие
