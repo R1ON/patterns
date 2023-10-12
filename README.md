@@ -26,6 +26,9 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Facade.ts" target="_blank">
      <img src="https://img.shields.io/badge/Facade-d9901a" alt="Facade"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Adapter.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Adapter-d9901a" alt="Adapter"/>
+    </a>
 </div>
 
 ### Поведенческие
