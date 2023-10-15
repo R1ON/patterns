@@ -32,6 +32,9 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Proxy.ts" target="_blank">
      <img src="https://img.shields.io/badge/Proxy-d9901a" alt="Proxy"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/structural/Composite.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Composite-d9901a" alt="Composite"/>
+    </a>
 </div>
 
 ### Поведенческие
