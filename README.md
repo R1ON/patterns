@@ -52,4 +52,7 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/State.ts" target="_blank">
      <img src="https://img.shields.io/badge/State-de3d37" alt="State"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Strategy.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Strategy-de3d37" alt="Strategy"/>
+    </a>
 </div>
