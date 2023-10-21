@@ -55,4 +55,7 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Strategy.ts" target="_blank">
      <img src="https://img.shields.io/badge/Strategy-de3d37" alt="Strategy"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Iterator.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Iterator-de3d37" alt="Iterator"/>
+    </a>
 </div>
