@@ -61,4 +61,7 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/TemplateMethod.ts" target="_blank">
      <img src="https://img.shields.io/badge/Template%20Method-de3d37" alt="Template Method"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Observer.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Observer-de3d37" alt="Observer"/>
+    </a>
 </div>
