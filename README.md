@@ -58,4 +58,7 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Iterator.ts" target="_blank">
      <img src="https://img.shields.io/badge/Iterator-de3d37" alt="Iterator"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/TemplateMethod.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Template%20Method-de3d37" alt="Template Method"/>
+    </a>
 </div>
