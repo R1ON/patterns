@@ -46,4 +46,7 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Mediator.ts" target="_blank">
      <img src="https://img.shields.io/badge/Mediator-de3d37" alt="Mediator"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Command.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Command-de3d37" alt="Command"/>
+    </a>
 </div>
