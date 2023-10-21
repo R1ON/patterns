@@ -6,13 +6,13 @@
       "skipLibCheck": true,
       "forceConsistentCasingInFileNames": true,
       "esModuleInterop": true,
-      "module": "esnext",
+      "module": "CommonJS",
       "moduleResolution": "node",
       "resolveJsonModule": true,
       "downlevelIteration": true,
       "allowSyntheticDefaultImports": true,
       "baseUrl": "./",
     },
-    "include": ["src/**/*"]
+    "include": ["src/**/*"],
   }
   

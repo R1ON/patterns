@@ -49,4 +49,7 @@
     <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/Command.ts" target="_blank">
      <img src="https://img.shields.io/badge/Command-de3d37" alt="Command"/>
     </a>
+    <a href="https://github.com/R1ON/patterns/blob/main/src/behavioral/State.ts" target="_blank">
+     <img src="https://img.shields.io/badge/State-de3d37" alt="State"/>
+    </a>
 </div>
