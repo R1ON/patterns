@@ -7,7 +7,7 @@
      <img src="https://img.shields.io/badge/Factory%20Method-7aad0c" alt="Factory Method"/>
     </a>
     <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Singleton.ts" target="_blank">
-     <img src="https://img.shields.io/badge/Facade-7aad0c" alt="Singleton"/>
+     <img src="https://img.shields.io/badge/Singleton-7aad0c" alt="Singleton"/>
     </a>
     <a href="https://github.com/R1ON/patterns/blob/main/src/creational/Prototype.ts" target="_blank">
      <img src="https://img.shields.io/badge/Prototype-7aad0c" alt="Prototype"/>
